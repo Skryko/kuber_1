@@ -49,7 +49,8 @@ curl http://127.0.0.1:8080
 
 hello world
 
-Скриншот результата:
+![photo](1-1.png)
+![photo](1-2.png)
 
 ⸻
 
@@ -115,7 +116,6 @@ kubectl describe svc netology-svc
 
 Endpoints: 10.244.0.10:5678
 
-Скриншот:
 
 ⸻
 
@@ -133,8 +133,8 @@ curl http://127.0.0.1:8080
 
 hello from netology service
 
-Скриншот результата:
-
+![photo](2-1.png)
+![photo](2-2.png)
 ⸻
 
 Результат выполнения
